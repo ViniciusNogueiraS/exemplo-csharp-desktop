@@ -1,0 +1,12 @@
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe.config
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\bin\Debug\CSharpTest.pdb
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csprojAssemblyReference.cache
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.Properties.Resources.resources
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.GenerateResource.cache
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.exe
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.pdb
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.CopyComplete
+C:\Users\vnog\Documents\Projetos\CSharpTest\CSharpTest\obj\Debug\CSharpTest.CMarket.resources
